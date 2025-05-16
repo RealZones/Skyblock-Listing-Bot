@@ -1,8 +1,5 @@
 # Skyblock-Listing-Bot
-The API in this is now cooked so no use
-
-I think /whitelist doesnt work but easy fix and u can just whitelist manually in whitelist.json
-
+# The API in this is now cooked so no use
 
 
 
