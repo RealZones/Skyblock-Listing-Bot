@@ -1,6 +1,6 @@
 # Skyblock-Listing-Bot
-# The API in this is now cooked so no use
-I have a version with fixed api dm realfearr. on disc if u want ig
+# The API in this is now cooked I have a version with fixed api dm realfearr. on disc if u want ig
+
 
 
 
@@ -35,5 +35,5 @@ SETUP:
 3. Put your Hypixel API Key In /commands/list.js near the top
 
 
-If Need Help DM speedometers on disc (Me)
+
 ![image](https://github.com/user-attachments/assets/ec5e22aa-6fe1-479b-8d84-edf80501abc6)
