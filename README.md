@@ -1,5 +1,6 @@
 # Skyblock-Listing-Bot
 # The API in this is now cooked so no use
+I have a version with fixed api dm realfearr. on disc if u want ig
 
 
 
